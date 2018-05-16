@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Persona</string>
+    <string name="consultar_lista_de_usuarios">consultar lista de usuarios</string>
+    <string name="modificar_usuario">MODIFICAR USUARIO</string>
+    <string name="registrar_usuario">REGISTRAR USUARIO</string>
+    <string name="registrar">registrar</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="dui">DUI</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="eliminar">ELIMINAR</string>
+</resources>
